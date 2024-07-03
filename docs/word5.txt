@@ -1,5 +1,4 @@
 apple
-grape
 mango
 lemon
 peach
